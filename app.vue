@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h1 class="text-3xl underline">hoge</h1>
-    <NuxtWelcome />
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </div>
 </template>
