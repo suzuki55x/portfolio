@@ -4,8 +4,8 @@
       <NuxtLink to="/">
         Home
       </NuxtLink>
-      <NuxtLink to="/fuga">
-        Fuga
+      <NuxtLink to="/blog">
+        Blog
       </NuxtLink>
     </div>
 
