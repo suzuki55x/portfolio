@@ -228,6 +228,9 @@
                 d="M61.76 99.37L30.37 82.1V47.92L61.76 66zm4.48 0l31.39-17.25v-34.2L66.24 66zM32.5 44L64 26.66 95.5 44 64 62.16 32.5 44z" />
             </svg>
           </div>
+          <div class="tooltip" data-tip="MicroCMS">
+            <img src="@/assets/images/microcms.svg" />
+          </div>
 
         </div>
         <h2 class="text-xl font-bold">その他</h2>
@@ -241,6 +244,9 @@
           <div class="tooltip" data-tip="Windows">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
           </div>
+          <div class="tooltip" data-tip="MacOS">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+          </div>
           <div class="tooltip" data-tip="RaspberryPi">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
           </div>
@@ -253,6 +259,6 @@
 <style scoped>
 .iconset img,
 .iconset svg {
-  @apply w-12 m-2;
+  @apply w-8 m-1;
 }
 </style>
