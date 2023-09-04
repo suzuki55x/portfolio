@@ -16,5 +16,6 @@
 
     <!-- pagesの呼び出し -->
     <slot />
+    <Footer />
   </div>
 </template>

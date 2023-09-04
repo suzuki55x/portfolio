@@ -5,5 +5,4 @@
     <Career />
     <Projects />
   </div>
-  <div class="text-lg">Hoge</div>
 </template>
