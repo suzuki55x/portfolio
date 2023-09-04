@@ -37,6 +37,22 @@
         </div>
       </div>
     </div>
+    <h2 class="text-2xl font-bold">Side jobs</h2>
+    <div class="card shadow-xl m-2">
+      <div class="card-body">
+        <h3 class="card-title">H社</h3>
+        <p>2022/08 - 2023/04</p>
+        <p>Web Engineer</p>
+        <div class="ml-4">
+          <p>不動産業関連のCRM(顧客管理システム)リプレース+機能追加案件</p>
+          <ul class="list-disc ml-8 text-xs sm:text-sm">
+            <li>CakePHPで作成されていた既存システムをLaravelにリプレースした。(CakePHP, Laravel, MariaDB)</li>
+            <li>フロントエンドはLaravelのBladeテンプレートを使用した。</li>
+            <li>追加機能として、お問い合わせフォームからのリクエストを受け付けるAPIの設計・実装など行った。</li>
+          </ul>
+        </div>
+      </div>
+    </div>
     <h2 class="text-2xl font-bold">Educations</h2>
     <div class="card shadow-xl m-2">
       <div class="card-body">
