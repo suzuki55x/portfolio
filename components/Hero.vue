@@ -6,7 +6,7 @@
         <h1 class="text-3xl md:text-5xl font-bold m-2">Takahito SUZUKI</h1>
         <p class="pl-2 text-xl m-2">Software Engineer</p>
         <div class="flex flex-wrap pl-2 m-2">
-          <a href="https://github.com/suzuki55x" class="btn btn-xs btn-circle">
+          <a href="https://github.com/suzuki55x" class="btn btn-xs btn-circle btn-ghost">
             <svg viewBox="0 0 128 128" width="24" height="24" class="fill-current">
               <g>
                 <path fill-rule="evenodd" clip-rule="evenodd"
@@ -18,7 +18,7 @@
               </g>
             </svg>
           </a>
-          <a href="https://www.facebook.com/takahito.suzuki.142" class="btn btn-xs btn-circle">
+          <a href="https://www.facebook.com/takahito.suzuki.142" class="btn btn-xs btn-circle btn-ghost">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="fill-current">
               <path
                 d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z">
