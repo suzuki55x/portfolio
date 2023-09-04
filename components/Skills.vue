@@ -1,9 +1,8 @@
 <template>
   <div class="container p-8 mx-auto">
     <h1 class="text-3xl font-bold">Skills</h1>
-    <div class="card shadow-xl">
+    <div class="card shadow-xl glass">
       <div class="card-body">
-
         <h2 class="text-xl font-bold">言語</h2>
         <div class="flex flex-row flex-wrap iconset">
           <div class="tooltip" data-tip="C">

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="navbar bg-slate-200">
+    <div class="navbar ">
       <div class="navbar-start"></div>
       <div class="navbar-center"></div>
       <div class="navbar-end">

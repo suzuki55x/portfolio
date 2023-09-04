@@ -2,7 +2,7 @@
   <div class="container p-8 mx-auto">
     <h1 class="text-3xl font-bold">Career</h1>
     <h2 class="text-2xl font-bold">Works</h2>
-    <div class="card shadow-xl m-2">
+    <div class="card shadow-xl m-2 glass">
       <div class="card-body">
         <h3 class="card-title">Y・Mエンタープライズ株式会社</h3>
         <p>2021/04 - now</p>
@@ -22,7 +22,7 @@
         </div>
       </div>
     </div>
-    <div class="card shadow-xl m-2">
+    <div class="card shadow-xl m-2 glass">
       <div class="card-body">
         <h3 class="card-title">株式会社アルコ・イーエックス</h3>
         <p>2016/04 - 2021/03</p>
@@ -38,7 +38,7 @@
       </div>
     </div>
     <h2 class="text-2xl font-bold">Side jobs</h2>
-    <div class="card shadow-xl m-2">
+    <div class="card shadow-xl m-2 glass">
       <div class="card-body">
         <h3 class="card-title">H社</h3>
         <p>2022/08 - 2023/04</p>
@@ -54,7 +54,7 @@
       </div>
     </div>
     <h2 class="text-2xl font-bold">Educations</h2>
-    <div class="card shadow-xl m-2">
+    <div class="card shadow-xl m-2 glass">
       <div class="card-body">
         <h3 class="card-title">茨城工業高等専門学校 専攻科 産業技術システムデザイン工学専攻 情報工学コース</h3>
         <p>2014/04 - 2016/03</p>
@@ -63,7 +63,7 @@
         </div>
       </div>
     </div>
-    <div class="card shadow-xl m-2">
+    <div class="card shadow-xl m-2 glass">
       <div class="card-body">
         <h3 class="card-title">茨城工業高等専門学校 電子情報工学科</h3>
         <p>2009/04 - 2014/03</p>

@@ -6,5 +6,12 @@ export default defineNuxtConfig({
       tailwindcss: {},
     },
   },
+  app: {
+    head: {
+      htmlAttrs: {
+        "data-theme": "retro",
+      },
+    },
+  },
   devtools: { enabled: true }
 })

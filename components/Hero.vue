@@ -1,11 +1,11 @@
 <template>
-  <div class="hero bg-base-200">
+  <div class="hero md:my-20">
     <div class="hero-content flex-col lg:flex-row">
       <img src="@/assets/images/hero-min.png" alt="hero" class="max-w-xs max-h-48 rounded-2xl shadow-2xl">
-      <div>
-        <h1 class="text-5xl font-bold">Takahito SUZUKI</h1>
-        <p class="pl-2 text-xl">Software Engineer</p>
-        <p class="pl-2 text-sm">
+      <div class="m-4">
+        <h1 class="text-3xl md:text-5xl font-bold m-2">Takahito SUZUKI</h1>
+        <p class="pl-2 text-xl m-2">Software Engineer</p>
+        <p class="pl-2 text-sm m-2">
           1993年生まれ。茨城県出身。
           <br>
           2016年茨城高専専攻科を修了、株式会社アルコ・イーエックスに新卒入社し、自社製品開発に立ち上げから携わる。
