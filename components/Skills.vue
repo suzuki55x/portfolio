@@ -107,7 +107,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
           </div>
           <div class="tooltip" data-tip="Tailwind CSS">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
           </div>
           <div class="tooltip" data-tip="Vue.js">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
@@ -259,6 +259,6 @@
 <style scoped>
 .iconset img,
 .iconset svg {
-  @apply w-8 m-1;
+  @apply w-8 m-1 fill-current;
 }
 </style>

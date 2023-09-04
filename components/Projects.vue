@@ -6,7 +6,7 @@
         <div class="card-body">
           <div class="flex justify-between">
             <h3 class="card-title">Vision Deck Editor</h3>
-            <a href="https://github.com/suzuki55x/vision-deck-proto" class="btn btn-sm btn-circle ">
+            <a href="https://github.com/suzuki55x/vision-deck-proto" class="btn btn-sm btn-circle btn-ghost">
               <img class="w-8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
             </a>
           </div>
@@ -38,7 +38,7 @@
         <div class="card-body">
           <div class="flex justify-between">
             <h3 class="card-title">Portfolio</h3>
-            <a href="https://github.com/suzuki55x/portfolio" class="btn btn-sm btn-circle ">
+            <a href="https://github.com/suzuki55x/portfolio" class="btn btn-sm btn-circle btn-ghost">
               <img class="w-8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
             </a>
           </div>
@@ -76,8 +76,8 @@
         <div class="card-body">
           <div class="flex justify-between">
             <h3 class="card-title">Vision Deck Editor Mobile</h3>
-            <a href="https://github.com/suzuki55x/visionxDeckMobile" class="btn btn-sm btn-circle" v-if="false">
-              <img class="w-8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+            <a href="https://github.com/suzuki55x/visionxDeckMobile" class="btn btn-sm btn-circle btn-ghost" v-if="false">
+              <img class="w-8 " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
             </a>
           </div>
           <p class="text-sm">
