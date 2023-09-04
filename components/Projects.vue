@@ -72,6 +72,42 @@
         <figure><label for="modal_pj2" class="cursor-pointer"><img src="@/assets/images/pj2.png" alt=""></label>
         </figure>
       </div>
+      <div class="card shadow-xl m-2 w-96 glass">
+        <div class="card-body">
+          <div class="flex justify-between">
+            <h3 class="card-title">Vision Deck Editor Mobile</h3>
+            <a href="https://github.com/suzuki55x/visionxDeckMobile" class="btn btn-sm btn-circle" v-if="false">
+              <img class="w-8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+            </a>
+          </div>
+          <p class="text-sm">
+            「Phantom Magic Vision」用のデッキエディタ(iOS版)。
+            <br>
+            SwiftUIの学習も兼ねて、iOS版を作成した。
+            <br>
+            また、ちょうどiOS17betaがリリースされたタイミングだったため、SwiftDataも使用してみた。
+            <br>
+            結果的に、かなり悩む結果となったが、SwiftDataの学習にはなった。
+          </p>
+          <div>
+            <h4 class="card-subtitle">使用技術</h4>
+            <div class="flex flex-wrap">
+              <div class="w-8 tooltip" data-tip="Electron">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+              </div>
+              <div class="w-8 tooltip" data-tip="Vue.js">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+              </div>
+              <div class="w-8 tooltip" data-tip="Vuetify">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+              </div>
+            </div>
+          </div>
+        </div>
+        <figure><label for="modal_pj3" class="cursor-pointer"><img class=" max-h-64" src="@/assets/images/pj3.png"
+              alt=""></label>
+        </figure>
+      </div>
 
     </div>
   </div>
@@ -84,7 +120,6 @@
       </div>
       <label class="modal-backdrop" for="modal_pj1">Close</label>
     </div>
-
     <input type="checkbox" id="modal_pj2" class="modal-toggle" />
     <div class="modal">
       <div class="modal-box max-w-4xl">
@@ -92,6 +127,14 @@
       </div>
       <label class="modal-backdrop" for="modal_pj2">Close</label>
     </div>
+    <input type="checkbox" id="modal_pj3" class="modal-toggle" />
+    <div class="modal">
+      <div class="modal-box max-w-4xl ">
+        <img class="mx-auto" src="@/assets/images/pj3.png" alt="">
+      </div>
+      <label class="modal-backdrop" for="modal_pj3">Close</label>
+    </div>
+
   </div>
 </template>
 
