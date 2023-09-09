@@ -25,6 +25,9 @@
               </path>
             </svg>
           </a>
+          <a href="https://portfolio.forkwell.com/@suzuki55x" class="link-hover">
+            Forkwell
+          </a>
         </div>
         <p class="pl-2 text-sm m-2">
           1993年生まれ。茨城県出身。
