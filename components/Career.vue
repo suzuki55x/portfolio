@@ -72,5 +72,35 @@
         </div>
       </div>
     </div>
+    <h2 class="text-2xl font-bold">Certifications</h2>
+    <div class="card shadow-xl m-2 glass">
+      <div class="card-body">
+        <h3 class="card-title">IPA関連資格</h3>
+        <h4 class="text-lg">応用情報技術者</h4>
+        <p class="text-sm ml-4">2017/10取得</p>
+        <h4 class="text-lg">基本情報技術者</h4>
+        <p class="text-sm ml-4">2017/04取得</p>
+      </div>
+    </div>
+    <div class="card shadow-xl m-2 glass">
+      <div class="card-body">
+        <h3 class="card-title">運転免許</h3>
+        <h4 class="text-lg">普通自動二輪車免許</h4>
+        <p class="text-sm ml-4">2018/02取得</p>
+        <h4 class="text-lg">普通自動車第一種運転免許</h4>
+        <p class="text-sm ml-4">2012/10取得</p>
+      </div>
+    </div>
+    <div class="card shadow-xl m-2 glass">
+      <div class="card-body">
+        <h3 class="card-title">その他資格</h3>
+        <h4 class="text-lg">危険物取扱者免状乙種4類</h4>
+        <p class="text-sm ml-4">2015/08取得</p>
+        <h4 class="text-lg">第二級海上特殊無線技士</h4>
+        <p class="text-sm ml-4">2015/05取得</p>
+        <h4 class="text-lg">第二級陸上特殊無線技士</h4>
+        <p class="text-sm ml-4">2015/05取得</p>
+      </div>
+    </div>
   </div>
 </template>
