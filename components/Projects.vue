@@ -60,8 +60,8 @@
               <div class="w-8 tooltip" data-tip="TailwindCSS">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
               </div>
-              <div class="w-8 tooltip" data-tip="GitHub Pages">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+              <div class="w-8 tooltip" data-tip="Cloudflare Pages">
+                <img src="@/assets/images/cloudflare.svg" />
               </div>
               <div class="w-8 tooltip" data-tip="MicroCMS">
                 <img src="@/assets/images/microcms.svg" />
