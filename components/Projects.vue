@@ -47,7 +47,7 @@
             <br>
             自分のスキルの棚卸もかねて作成した。
             <br>
-            Nuxt.js + Tailwind CSS + GitHub Pagesで作成。
+            Nuxt.js + Tailwind CSS + Cloudflare Pagesで作成。
             <br>
             ブログページも作成予定で、そちらはMicroCMSを使用する予定。(現時点で未作成)
           </p>
