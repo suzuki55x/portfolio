@@ -96,7 +96,7 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
               </div>
               <div class="w-8 tooltip" data-tip="Swift UI">
-                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="" height="" viewBox="0,0,256,256">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0,0,256,256">
                   <g transform="translate(-42.24,-42.24) scale(1.33,1.33)">
                     <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt"
                       stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0"
