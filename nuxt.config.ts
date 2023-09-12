@@ -1,13 +1,15 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 const { API_KEY, SERVICE_DOMAIN } = process.env
 
+// yarn devだとdevelopmentになる。yarn generateなどはproductionに自動的になる
+console.log(process.env.NODE_ENV)
+
 export default defineNuxtConfig({
   runtimeConfig: {
-    apiKey: API_KEY,
-    apiDomain: SERVICE_DOMAIN,
+    apiKey: API_KEY,// production用。フロント側に非公開。.envに記載
     public: {
-      apiKey: process.env.NODE_ENV !== 'production' ? API_KEY : undefined,
-      apiDomain: process.env.NODE_ENV !== 'production' ? SERVICE_DOMAIN : undefined,
+      apiKey: process.env.NODE_ENV !== 'production' ? API_KEY : undefined,// dev用
+      apiDomain: SERVICE_DOMAIN
     },
   },
   ssr: true,
@@ -24,5 +26,5 @@ export default defineNuxtConfig({
       },
     },
   },
-  devtools: { enabled: true }
+  devtools: { enabled: true },
 })

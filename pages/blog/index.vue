@@ -1,8 +1,9 @@
 <script setup>
 const config = useRuntimeConfig();
 const { data } = await useFetch("/blogs", {
-  baseURL: `https://${config.apiDomain ?? config.public.apiDomain}.microcms.io/api/v1`,
+  baseURL: `https://${config.public.apiDomain}.microcms.io/api/v1`,
   headers: {
+    // dev環境ではprivateの値が取れないため、publicの値を使用する（dev環境のみpublicに設定されている)
     "X-MICROCMS-API-KEY": config.apiKey ?? config.public.apiKey
   },
 });

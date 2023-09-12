@@ -4,8 +4,9 @@ const route = useRoute();
 const article_id = route.params.id;
 
 const { data: article } = await useFetch(`/blogs/${article_id}`, {
-  baseURL: `https://${config.apiDomain ?? config.public.apiDomain}.microcms.io/api/v1`,
+  baseURL: `https://${config.public.apiDomain}.microcms.io/api/v1`,
   headers: {
+    // dev環境ではprivateの値が取れないため、publicの値を使用する（dev環境のみpublicに設定されている)
     "X-MICROCMS-API-KEY": config.apiKey ?? config.public.apiKey
   },
 });
