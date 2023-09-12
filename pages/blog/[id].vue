@@ -1,4 +1,6 @@
 <script setup>
+import Prism from "prismjs";
+import 'prismjs/themes/prism-okaidia.min.css';
 const config = useRuntimeConfig();
 const route = useRoute();
 const article_id = route.params.id;
@@ -10,14 +12,24 @@ const { data: article } = await useFetch(`/blogs/${article_id}`, {
     "X-MICROCMS-API-KEY": config.apiKey ?? config.public.apiKey
   },
 });
+
+
+onMounted(() => {
+  console.log(article.content)
+  Prism.highlightAll();
+});
 </script>
 
 <template>
-  <div>
-    <h1>{{ article.title }}</h1>
+  <div class="">
+    <h1 class="">{{ article.title }}</h1>
     <p>
-      <time datetime="article.publishedAt" v-text="article.publishedAt" />
+      <time class=" text-sm" datetime="article.publishedAt" v-text="article.publishedAt" />
     </p>
-    <div v-html="article.content" />
+    <div v-html="article.content" class="prose prose-lg " />
   </div>
 </template>
+
+<style scoped>
+.prose:deep(code) {}
+</style>
