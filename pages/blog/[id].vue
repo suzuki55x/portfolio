@@ -21,12 +21,16 @@ onMounted(() => {
 </script>
 
 <template>
-  <div class="">
-    <h1 class="">{{ article.title }}</h1>
-    <p>
-      <time class=" text-sm" datetime="article.publishedAt" v-text="article.publishedAt" />
-    </p>
-    <div v-html="article.content" class="prose prose-lg " />
+  <div class="container mx-auto my-16">
+    <div class="prose md:prose-lg card glass p-12 mx-auto w-full">
+      <NuxtLink to="/blog" class="w-fit mb-2 text-sm text-gray-400 hover:text-gray-700">← Back to blog</NuxtLink>
+      <h1 class="">{{ article.title }}</h1>
+      <p>
+        <time class=" text-sm" datetime="article.publishedAt" v-text="article.publishedAt" />
+      </p>
+      <div v-html="article.content" class="prose lg:prose-lg " />
+    </div>
+
   </div>
 </template>
 
