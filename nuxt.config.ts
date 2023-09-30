@@ -10,7 +10,7 @@ export default defineNuxtConfig({
   app: {
     head: {
       htmlAttrs: {
-        "data-theme": "synthwave",
+        "data-theme": "lite",
       },
     },
   },
