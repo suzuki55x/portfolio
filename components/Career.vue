@@ -41,7 +41,7 @@
     <div class="card shadow-xl m-2 glass">
       <div class="card-body">
         <h3 class="card-title">H社</h3>
-        <p>2022/08 - 2023/04</p>
+        <p>2022/08 - now</p>
         <p>Web Engineer</p>
         <div class="ml-4">
           <p>不動産業関連のCRM(顧客管理システム)リプレース+機能追加案件</p>
@@ -49,6 +49,39 @@
             <li>CakePHPで作成されていた既存システムをLaravelにリプレースした。(CakePHP, Laravel, MariaDB)</li>
             <li>フロントエンドはLaravelのBladeテンプレートを使用した。</li>
             <li>追加機能として、お問い合わせフォームからのリクエストを受け付けるAPIの設計・実装など行った。</li>
+            <li>現在は、サポート対応として細々とした問い合わせ対応を実施中</li>
+          </ul>
+        </div>
+        <div class="ml-4">
+          <p>マッチングアプリ開発</p>
+          <ul class="list-disc ml-8 text-xs sm:text-sm">
+            <li>既存のマッチングアプリ向けパッケージソフトを解析し、機能追加していく案件に参画中</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="card shadow-xl m-2 glass">
+      <div class="card-body">
+        <h3 class="card-title">T社</h3>
+        <p>2023/11 - now</p>
+        <p>Web Engineer</p>
+        <div class="ml-4">
+          <p>メッセージングアプリ解析関連のWebサービス開発</p>
+          <ul class="list-disc ml-8 text-xs sm:text-sm">
+            <li>新規のサービス開発に参画し、主にフロントエンド開発を担当中(Nuxt.js)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="card shadow-xl m-2 glass">
+      <div class="card-body">
+        <h3 class="card-title">J社</h3>
+        <p>2023/12 - now</p>
+        <p>Web Engineer</p>
+        <div class="ml-4">
+          <p>AI文字起こし関連のWebサービス開発</p>
+          <ul class="list-disc ml-8 text-xs sm:text-sm">
+            <li>新規のサービス開発に参画し、主にフロントエンド開発を担当中(Nuxt.js)</li>
           </ul>
         </div>
       </div>
