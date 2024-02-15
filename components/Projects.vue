@@ -58,7 +58,7 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
               </div>
               <div class="w-8 tooltip" data-tip="TailwindCSS">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
               </div>
               <div class="w-8 tooltip" data-tip="Cloudflare Pages">
                 <img src="@/assets/images/cloudflare.svg" />
