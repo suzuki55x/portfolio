@@ -5,7 +5,7 @@
         <p>Copyright © 2023 Takahito SUZUKI - All rights reserved</p>
       </aside>
       <nav class="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
-        <a href="https://github.com/suzuki55x">
+        <a href="https://github.com/suzuki55x" aria-label="github">
           <svg viewBox="0 0 128 128" width="24" height="24" class="fill-current">
             <g>
               <path fill-rule="evenodd" clip-rule="evenodd"
@@ -17,14 +17,14 @@
             </g>
           </svg>
         </a>
-        <a href="https://www.facebook.com/takahito.suzuki.142">
+        <a href="https://www.facebook.com/takahito.suzuki.142" aria-label="facebook">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="fill-current">
             <path
               d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z">
             </path>
           </svg>
         </a>
-        <a href="https://www.linkedin.com/in/suzuki55x/" class="btn btn-xs btn-square btn-ghost">
+        <a href="https://www.linkedin.com/in/suzuki55x/" class="btn btn-xs btn-square btn-ghost" aria-label="linkedin">
           <svg viewBox="0 0 128 128" width="24" height="24">
             <path fill="#0076b2"
               d="M116 3H12a8.91 8.91 0 00-9 8.8v104.42a8.91 8.91 0 009 8.78h104a8.93 8.93 0 009-8.81V11.77A8.93 8.93 0 00116 3z">

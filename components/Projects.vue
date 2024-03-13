@@ -1,13 +1,15 @@
 <template>
   <div class="container p-8 mx-auto">
-    <h1 class="text-3xl font-bold">Hobby Projects</h1>
+    <h1 class="text-3xl font-bold">Projects</h1>
+    <h2 class="text-2xl font-bold">Hobby</h2>
     <div class="flex flex-wrap">
-      <div class="card shadow-xl m-2 w-96 glass">
+      <div class="card m-2 w-96 glass">
         <div class="card-body">
           <div class="flex justify-between">
             <h3 class="card-title">Vision Deck Editor</h3>
             <a href="https://github.com/suzuki55x/vision-deck-proto" class="btn btn-sm btn-circle btn-ghost">
-              <img class="w-8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+              <img alt="github" class="w-8"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
             </a>
           </div>
           <p class="text-sm">
@@ -21,25 +23,29 @@
             <h4 class="card-subtitle">使用技術</h4>
             <div class="flex flex-wrap">
               <div class="w-8 tooltip" data-tip="Electron">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+                <img alt="Electron"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
               </div>
               <div class="w-8 tooltip" data-tip="Vue.js">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+                <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
               </div>
               <div class="w-8 tooltip" data-tip="Vuetify">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+                <img alt="Vuetify"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
               </div>
             </div>
           </div>
         </div>
-        <figure><label for="modal_pj1" class="cursor-pointer"><img src="@/assets/images/pj1.png" alt=""></label></figure>
+        <figure><label for="modal_pj1" class="cursor-pointer"><img src="@/assets/images/pj1.png" alt=""></label>
+        </figure>
       </div>
-      <div class="card shadow-xl m-2 w-96 glass">
+      <div class="card m-2 w-96 glass">
         <div class="card-body">
           <div class="flex justify-between">
             <h3 class="card-title">Portfolio</h3>
             <a href="https://github.com/suzuki55x/portfolio" class="btn btn-sm btn-circle btn-ghost">
-              <img class="w-8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+              <img alt="github" class="w-8"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
             </a>
           </div>
           <p class="text-sm">
@@ -55,16 +61,18 @@
             <h4 class="card-subtitle">使用技術</h4>
             <div class="flex flex-wrap">
               <div class="w-8 tooltip" data-tip="Nuxt.js">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+                <img alt="Nuxt.js"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
               </div>
               <div class="w-8 tooltip" data-tip="TailwindCSS">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+                <img alt="TailwindCSS"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
               </div>
               <div class="w-8 tooltip" data-tip="Cloudflare Pages">
-                <img src="@/assets/images/cloudflare.svg" />
+                <img alt="Cloudflare Pages" src="@/assets/images/cloudflare.svg" />
               </div>
               <div class="w-8 tooltip" data-tip="MicroCMS">
-                <img src="@/assets/images/microcms.svg" />
+                <img alt="MicroCMS" src="@/assets/images/microcms.svg" />
               </div>
             </div>
           </div>
@@ -72,12 +80,14 @@
         <figure><label for="modal_pj2" class="cursor-pointer"><img src="@/assets/images/pj2.png" alt=""></label>
         </figure>
       </div>
-      <div class="card shadow-xl m-2 w-96 glass">
+      <div class="card m-2 w-96 glass">
         <div class="card-body">
           <div class="flex justify-between">
             <h3 class="card-title">Vision Deck Editor Mobile</h3>
-            <a href="https://github.com/suzuki55x/visionxDeckMobile" class="btn btn-sm btn-circle btn-ghost" v-if="false">
-              <img class="w-8 " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+            <a href="https://github.com/suzuki55x/visionxDeckMobile" class="btn btn-sm btn-circle btn-ghost"
+              v-if="false">
+              <img alt="github" class="w-8 "
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
             </a>
           </div>
           <p class="text-sm">
@@ -93,7 +103,7 @@
             <h4 class="card-subtitle">使用技術</h4>
             <div class="flex flex-wrap">
               <div class="w-8 tooltip" data-tip="Swift">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+                <img alt="Swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
               </div>
               <div class="w-8 tooltip" data-tip="Swift UI">
                 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0,0,256,256">

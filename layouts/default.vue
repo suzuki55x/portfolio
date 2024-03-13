@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="navbar ">
+    <div class="navbar bg-slate-400 text-white z-50 sticky top-0">
       <div class="navbar-start"></div>
       <div class="navbar-center"></div>
       <div class="navbar-end">
@@ -15,7 +15,10 @@
     </div>
 
     <!-- pagesの呼び出し -->
-    <slot />
+    <main class="relative bg-slate-100">
+      <slot />
+
+    </main>
     <Footer />
   </div>
 </template>

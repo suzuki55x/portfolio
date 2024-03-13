@@ -21,8 +21,15 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
+      title: "Takahito Suzuki",
+      meta: [
+        { charset: "utf-8" },
+        { name: "viewport", content: "width=device-width, initial-scale=1" },
+        { name: "description", content: "Takahito Suzuki's portfolio" },
+      ],
       htmlAttrs: {
         "data-theme": "lite",
+        "lang": "ja",
       },
     },
   },
