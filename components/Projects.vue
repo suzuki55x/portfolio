@@ -3,7 +3,7 @@
     <h1 class="text-3xl font-bold">Projects</h1>
     <h2 class="text-2xl font-bold">Hobby</h2>
     <div class="flex flex-wrap">
-      <div class="card shadow-xl m-2 w-96 glass">
+      <div class="card m-2 w-96 glass">
         <div class="card-body">
           <div class="flex justify-between">
             <h3 class="card-title">Vision Deck Editor</h3>
@@ -39,7 +39,7 @@
         <figure><label for="modal_pj1" class="cursor-pointer"><img src="@/assets/images/pj1.png" alt=""></label>
         </figure>
       </div>
-      <div class="card shadow-xl m-2 w-96 glass">
+      <div class="card m-2 w-96 glass">
         <div class="card-body">
           <div class="flex justify-between">
             <h3 class="card-title">Portfolio</h3>
@@ -80,7 +80,7 @@
         <figure><label for="modal_pj2" class="cursor-pointer"><img src="@/assets/images/pj2.png" alt=""></label>
         </figure>
       </div>
-      <div class="card shadow-xl m-2 w-96 glass">
+      <div class="card m-2 w-96 glass">
         <div class="card-body">
           <div class="flex justify-between">
             <h3 class="card-title">Vision Deck Editor Mobile</h3>

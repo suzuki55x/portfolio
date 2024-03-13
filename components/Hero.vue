@@ -1,11 +1,13 @@
 <template>
-  <div class="hero md:my-20">
+  <div class="hero  bg-slate-400  md:h-screen">
     <div class="hero-content flex-col lg:flex-row">
-      <img src="@/assets/images/hero-min.png" alt="hero" class="max-w-xs max-h-48 rounded-2xl shadow-2xl">
+      <img src="@/assets/images/hero-min.png" alt="hero" class="max-w-sm max-h-96 rounded-2xl ">
       <div class="m-4">
-        <h1 class="text-3xl md:text-5xl font-bold m-2">Takahito SUZUKI</h1>
-        <p class="pl-2 text-xl m-2">Software Engineer</p>
-        <div class="flex flex-wrap pl-2 m-2">
+        <div class="pb-2">
+          <h1 class="text-3xl md:text-5xl font-bold m-2">Takahito SUZUKI</h1>
+          <p class="pl-2 text-xl m-2">Software Engineer</p>
+        </div>
+        <div class="flex flex-wrap pl-2 m-2 pb-4">
           <a href="https://github.com/suzuki55x" class="btn btn-xs btn-circle btn-ghost" aria-label="github">
             <svg viewBox="0 0 128 128" width="24" height="24" class="fill-current">
               <g>
