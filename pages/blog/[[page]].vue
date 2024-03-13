@@ -31,8 +31,9 @@ const paginate = (page) => {
     <div class="flex justify-between flex-auto flex-col sm:flex-row flex-wrap">
       <template v-for="article in data.contents" :key="article.id">
         <nuxtLink :to="`/blog/article/${article.id}`"
-          class="image-full card glass min-h-16 my-4 mx-auto sm:m-4  w-4/5 sm:w-5/12 ">
-          <figure class=""><img :src="article.eyecatch ? article.eyecatch.url : undefined" alt=""></figure>
+          class="image-full card glass min-h-16 my-4 mx-auto sm:m-4  w-4/5 sm:w-5/12  aspect-video">
+          <figure class=""><img :src="article.eyecatch ? article.eyecatch.url : undefined" alt="eyecatch">
+          </figure>
           <div class="h-full flex flex-col justify-between card-body p-4 ">
             <h2 class="card-title">{{ article.title }}</h2>
             <div>
