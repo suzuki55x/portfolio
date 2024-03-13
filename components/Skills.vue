@@ -6,76 +6,83 @@
         <h2 class="text-xl font-bold">言語</h2>
         <div class="flex flex-row flex-wrap iconset">
           <div class="tooltip" data-tip="C">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+            <img alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           </div>
           <div class="tooltip" data-tip="C++">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+            <img alt="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
           </div>
           <div class="tooltip" data-tip="Dart">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+            <img alt="dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
           </div>
           <div class="tooltip" data-tip="Elixir">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
+            <img alt="elixir" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
           </div>
           <div class="tooltip" data-tip="Erlang">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" />
+            <img alt="Erlang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" />
           </div>
           <div class="tooltip" data-tip="Java">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+            <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
           </div>
           <div class="tooltip" data-tip="JavaScript">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            <img alt="JavaScript"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           </div>
           <div class="tooltip" data-tip="julia">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
+            <img alt="julia" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
           </div>
           <div class="tooltip" data-tip="lua">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+            <img alt="lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
           </div>
           <div class="tooltip" data-tip="Markdown">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+            <img alt="Markdown"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
           </div>
           <div class="tooltip" data-tip="Node.js">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+            <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
           </div>
           <div class="tooltip" data-tip="Perl">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" />
+            <img alt="Perl" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" />
           </div>
           <div class="tooltip" data-tip="PHP">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+            <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
           </div>
           <div class="tooltip" data-tip="Python">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+            <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           </div>
           <div class="tooltip" data-tip="Ruby">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+            <img alt="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
           </div>
           <div class="tooltip" data-tip="Rust">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
+            <img alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
           </div>
           <div class="tooltip" data-tip="Swift">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+            <img alt="Swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
           </div>
         </div>
         <h2 class="text-xl font-bold">フレームワーク・ライブラリ</h2>
         <div class="flex flex-row flex-wrap iconset">
           <div class="tooltip" data-tip="BootStrap">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+            <img alt="BootStrap"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
           </div>
           <div class="tooltip" data-tip="PHP Laravel">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+            <img alt="PHP Laravel"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
           </div>
           <div class="tooltip" data-tip="CakePHP">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" />
+            <img alt="CakePHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" />
           </div>
           <div class="tooltip" data-tip="Phalcon PHP">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg" />
+            <img alt="Phalcon PHP"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg" />
           </div>
           <div class="tooltip" data-tip="Elixir Phoenix">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" />
+            <img alt="Elixir Phoenix"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" />
           </div>
           <div class="tooltip" data-tip="Electron">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+            <img alt="Electron"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
           </div>
           <div class="tooltip" data-tip="Rust Tauri">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
@@ -95,28 +102,30 @@
             </svg>
           </div>
           <div class="tooltip" data-tip="Flutter">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+            <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
           </div>
           <div class="tooltip" data-tip="jQuery">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+            <img alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
           </div>
           <div class="tooltip" data-tip="Nuxt.js">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+            <img alt="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
           </div>
           <div class="tooltip" data-tip="Ruby on Rails">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
+            <img alt="Ruby on Rails"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
           </div>
           <div class="tooltip" data-tip="Tailwind CSS">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+            <img alt="Tailwind CSS"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
           </div>
           <div class="tooltip" data-tip="Vue.js">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+            <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
           </div>
           <div class="tooltip" data-tip="OpenCV">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+            <img alt="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
           </div>
           <div class="tooltip" data-tip="Vuetify">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+            <img alt="Vuetify" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
           </div>
         </div>
         <h2 class="text-xl font-bold">ツール</h2>
@@ -130,64 +139,71 @@
             </svg>
           </div>
           <div class="tooltip" data-tip="Apache">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
+            <img alt="Apache"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
           </div>
           <div class="tooltip" data-tip="Composer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+            <img alt="Composer"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
           </div>
           <div class="tooltip" data-tip="Docker">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+            <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
           </div>
           <div class="tooltip" data-tip="Git">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+            <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           </div>
           <div class="tooltip" data-tip="GitHub">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+            <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
           </div>
           <div class="tooltip" data-tip="Adobe Illustrator">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+            <img alt="Adobe Illustrator"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
           </div>
           <div class="tooltip" data-tip="MatLab">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+            <img alt="MatLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
           </div>
           <div class="tooltip" data-tip="MySQL">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+            <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           </div>
           <div class="tooltip" data-tip="NginX">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+            <img alt="NginX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
           </div>
           <div class="tooltip" data-tip="Adobe Photoshop">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+            <img alt="Adobe Photoshop"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
           </div>
           <div class="tooltip" data-tip="PostgreSQL">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+            <img alt="PostgreSQL"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
           </div>
           <div class="tooltip" data-tip="Processing">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />
+            <img alt="Processing"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />
           </div>
           <div class="tooltip" data-tip="Redis">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+            <img alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
           </div>
           <div class="tooltip" data-tip="Slack">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+            <img alt="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
           </div>
           <div class="tooltip" data-tip="Sqlite">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+            <img alt="Sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
           </div>
           <div class="tooltip" data-tip="Unity">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+            <img alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
           </div>
           <div class="tooltip" data-tip="Vim">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+            <img alt="Vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
           </div>
           <div class="tooltip" data-tip="VisualStudio Code">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+            <img alt="VisualStudio Code"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
           </div>
           <div class="tooltip" data-tip="Xcode">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+            <img alt="Xcode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
           </div>
           <div class="tooltip" data-tip="Blender">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+            <img alt="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
           </div>
           <div class="tooltip" data-tip="Arduino">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
@@ -202,8 +218,8 @@
           <div class="tooltip" data-tip="Vite">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
               <defs>
-                <linearGradient id="a" x1="6" x2="235" y1="33" y2="344" gradientTransform="translate(0 .937) scale(.3122)"
-                  gradientUnits="userSpaceOnUse">
+                <linearGradient id="a" x1="6" x2="235" y1="33" y2="344"
+                  gradientTransform="translate(0 .937) scale(.3122)" gradientUnits="userSpaceOnUse">
                   <stop offset="0" stop-color="#41d1ff" />
                   <stop offset="1" stop-color="#bd34fe" />
                 </linearGradient>
@@ -229,26 +245,29 @@
             </svg>
           </div>
           <div class="tooltip" data-tip="MicroCMS">
-            <img src="@/assets/images/microcms.svg" />
+            <img alt="MicroCMS" src="@/assets/images/microcms.svg" />
           </div>
 
         </div>
         <h2 class="text-xl font-bold">その他</h2>
         <div class="flex flex-row flex-wrap iconset">
           <div class="tooltip" data-tip="JAMStack">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" />
+            <img alt="JAMStack"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" />
           </div>
           <div class="tooltip" data-tip="Linux">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+            <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           </div>
           <div class="tooltip" data-tip="Windows">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+            <img alt="Windows"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
           </div>
           <div class="tooltip" data-tip="MacOS">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+            <img alt="MacOS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
           </div>
           <div class="tooltip" data-tip="RaspberryPi">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+            <img alt="RaspberryPi"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
           </div>
         </div>
       </div>
