@@ -10,7 +10,7 @@ const { data } = await useFetch("/blogs", {
 </script>
 
 <template>
-  <div class="container mx-auto my-16">
+  <div class="container mx-auto py-16">
     <div class="flex justify-between flex-auto flex-col sm:flex-row flex-wrap">
       <template v-for="article in data.contents" :key="article.id">
         <nuxtLink :to="`/blog/${article.id}`"
@@ -20,7 +20,7 @@ const { data } = await useFetch("/blogs", {
             <h2 class="card-title">{{ article.title }}</h2>
             <div>
               <div class="text-xs badge badge-neutral">{{ article.category.name ?? "カテゴリなし" }}</div>
-              <div class=" text-sm text-end">{{ article.publishedAt }}</div>
+              <div class=" text-sm text-end">{{ formatISO8601(article.publishedAt) }}</div>
             </div>
           </div>
         </nuxtLink>
