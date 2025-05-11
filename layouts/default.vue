@@ -7,9 +7,11 @@
         <NuxtLink to="/" class="btn m-2 btn-ghost">
           Home
         </NuxtLink>
+        <!--
         <NuxtLink to="/blog" class="btn m-2 btn-ghost">
           Blog
         </NuxtLink>
+        -->
 
       </div>
     </div>
