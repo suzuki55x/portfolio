@@ -12,6 +12,12 @@ export default defineNuxtConfig({
       apiDomain: SERVICE_DOMAIN
     },
   },
+  nitro: {
+    output: {
+      dir: '.output',
+      publicDir: '.output/public'
+    }
+  },
   ssr: true,
   css: ["@/assets/css/main.css"],
   postcss: {
