@@ -1,5 +1,6 @@
+
 <template>
-  <div class="hero  bg-slate-400  md:h-screen">
+  <div class="hero animate-gradient-x bg-gradient-to-r from-slate-500 via-slate-400 to-white md:h-screen">
     <div class="hero-content flex-col lg:flex-row">
       <img src="@/assets/images/hero-min.png" alt="hero" class="max-w-sm max-h-96 rounded-2xl ">
       <div class="m-4">
@@ -58,3 +59,16 @@
     </div>
   </div>
 </template>
+
+<style scoped>
+@keyframes gradient-x {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.animate-gradient-x {
+  background-size: 200% 200%;
+  animation: gradient-x 15s ease infinite;
+}
+</style>

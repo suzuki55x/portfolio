@@ -19,6 +19,9 @@ export default defineNuxtConfig({
       tailwindcss: {},
     },
   },
+  modules: [
+    "nuxt-particles"
+  ],
   app: {
     head: {
       title: "Takahito Suzuki",
